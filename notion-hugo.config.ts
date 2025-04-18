@@ -11,7 +11,7 @@ const userConfig: UserConfig = {
             //     target_folder: 'path/relative/to/content/folder'
             // }
             {
-                page_id: '45eb121158b9489480ec000fd25c812b',
+                page_id: '1d9c813f9c5480fa9cc1caf9c2884dd6',
                 target_folder: '.'
             }
         ],
@@ -21,7 +21,7 @@ const userConfig: UserConfig = {
             //     target_folder: 'path/relative/to/content/folder'
             // }
             {
-                database_id: 'b7b1816c05ec464391c8c111fa242985',
+                database_id: '1d9c813f9c54805b910f000cd0112463',
                 target_folder: '.'
             }
         ],
